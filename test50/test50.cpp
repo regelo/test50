@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "Salut la Terre";
-	std::cout << "Buonjiourno";
+	std::cout << "Bonjour";
 	std::cout << "Hello ";
 	std::cout << "555";
 }
